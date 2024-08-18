@@ -76,8 +76,6 @@
 15.  Soft Skills
 
 - Q1: Describe a situation where you had to solve a complex problem in a DevOps environment. How did you - approach it?
-
 - Q2: How do you prioritize tasks when working on multiple projects with tight deadlines?
-
 - Q3: Explain how you adapt to changes in technology and stay up-to-date with the latest DevOps tools and practices.
 

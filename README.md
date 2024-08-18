@@ -51,10 +51,10 @@ Happy coding! 💻
 
 Feel free to customize this message further based on your specific needs and the community you wish to build around this repository!
 
-[BackEnd Developer](BackEnd.md)
-[Cloud Engineer](CloudEngineer.md)
-[Cloud Security](CloudSecurity.md)
-[DevOps skills](DevOps.md)
-[Linux Admin](LinuxAdmin.md)
-[Network Engineer](NetworkEngineer.md)
-[Web Developer](WebDeveloper.md)
+- [BackEnd Developer](BackEnd.md)
+- [Cloud Engineer](CloudEngineer.md)
+- [Cloud Security](CloudSecurity.md)
+- [DevOps skills](DevOps.md)
+- [Linux Admin](LinuxAdmin.md)
+- [Network Engineer](NetworkEngineer.md)
+- [Web Developer](WebDeveloper.md)

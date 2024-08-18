@@ -14,19 +14,19 @@
    - Q1: What is the difference between static routing and dynamic routing? When would you use each?
    - Q2: How do you configure a basic VLAN on a switch, and what are the benefits of using VLANs?
    - Q3: Explain how routing protocols like OSPF and BGP work. How do they dfer
-### *. Nwork Security**
+### *. Network Security**
    - Q1: How would you implement access control lists (ACLs) on a router to filter traffic? Provide an example.
    - Q2: What are the key differences between a firewall and an intrusion detection system (IDS)?
    - Q3: How do you secure a wireless network? Discuss WPA3 and other best practices for securing -Fi
-### *. Nwork Design and Architecture**
+### *. Network Design and Architecture**
    - Q1: How do you design a network topology for a medium-sized business? What factors do you consider?
    - Q2: Explain the difference between a hub, a switch, and a router. How do they interact in a network?
    - Q3: How would you implement a redundant network design to ensure high availabity
-### *. Vs (Virtual Private Networks)**
+### *.IPSec Vs (Virtual Private Networks)**
    - Q1: How do you set up a site-to-site VPN? What protocols are commonly used for this?
    - Q2: Explain how SSL VPNs work and how they differ from traditional IPsec VPNs.
    - Q3: What are the security considerations when implementing a VPN for remote woers
-### *. Nwork Troubleshooting**
+### *. Network Troubleshooting**
    - Q1: How do you diagnose and resolve an IP address conflict on a network?
    - Q2: Explain the process of using traceroute to troubleshoot network connectivity issues.
    - Q3: What steps would you take to troubleshoot a slow network conneion
@@ -34,15 +34,15 @@
    - Q1: How do you design a wireless network for a large office space? Discuss the placement of access points.
    - Q2: What is the difference between 2.4 GHz and 5 GHz frequencies in Wi-Fi, and how do you decide which to use?
    - Q3: How do you secure a wireless network against common threats like unauthorized access and man-in-the-middle atcks
-### *. Nwork Automation and Scripting**
+### *. Network Automation and Scripting**
    - Q1: How would you use Python to automate network configurations on Cisco devices?
    - Q2: Explain the benefits of using tools like Ansible or Puppet for network automation.
    - Q3: What are the common challenges in automating network tasks, and how do you overcomehem
-### *0. twork Monitoring and Performance**
+### *0. Nettwork Monitoring and Performance**
    - Q1: How do you monitor network performance and identify bottlenecks using tools like Nagios or SolarWinds?
    - Q2: What is SNMP, and how is it used in network management?
    - Q3: How do you set up alerts for network performance issues? What metrics would you motor
-### *1. twork Virtualization**
+### *1. Network Virtualization**
    - Q1: What is network virtualization, and how does it benefit large-scale networks?
    - Q2: Explain how VXLAN works and how it is used in modern data centers.
    - Q3: How do you implement a software-defined network (SDN), and what are its key components?
@@ -51,7 +51,7 @@
    - Q1: How do you design a network for a data center? Discuss the importance of redundancy and scalability.
    - Q2: What are leaf-spine architecture, and how does it differ from traditional three-tier architecture?
    - Q3: Explain the role of load balancers in a data center enviroent
-### *3. v6**
+### *3. Ipv6**
    - Q1: How does IPv6 differ from IPv4, and what are the benefits of transitioning to IPv6?
    - Q2: Explain the process of IPv6 address allocation and how it handles routing.
    - Q3: How do you configure IPv6 on a router, and what challenges might you face during deployment?

@@ -49,8 +49,6 @@ Happy coding! 💻
 
 ---
 
-Feel free to customize this message further based on your specific needs and the community you wish to build around this repository!
-
 - [BackEnd Developer](BackEnd.md)
 - [Cloud Engineer](CloudEngineer.md)
 - [Cloud Security](CloudSecurity.md)
